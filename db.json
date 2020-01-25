@@ -13,5 +13,19 @@
         "lastName": "Herrera",
         "city": "Barcelona",
         "country": "ESP"
+    },
+    {
+        "id": "0002",
+        "firstName": "Mark",
+        "lastName": "Otto",
+        "city": "London",
+        "country": "ENG"
+    },
+    {
+        "id": "0003",
+        "firstName": "Larry",
+        "lastName": "the Bird",
+        "city": "Los Angeles",
+        "country": "USA"
     }
 ]}
