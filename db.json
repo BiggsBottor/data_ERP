@@ -1,0 +1,14 @@
+[
+    {
+        "firstName": "Harold",
+        "lastName": "Raimy",
+        "city": "New York",
+        "country": "USA"
+    },
+    {
+        "firstName": "Carlos",
+        "lastName": "Herrera",
+        "city": "Barcelona",
+        "country": "ESP"
+    }
+]
