@@ -1,14 +1,17 @@
-[
+{ 
+    "clients": [
     {
+        "id": "0000",
         "firstName": "Harold",
         "lastName": "Raimy",
         "city": "New York",
         "country": "USA"
     },
     {
+        "id": "0001",
         "firstName": "Carlos",
         "lastName": "Herrera",
         "city": "Barcelona",
         "country": "ESP"
     }
-]
+]}
